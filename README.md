@@ -1,4 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EYM6jbXw)
+# This is a clone of the original private repo
+<img width="1245" alt="Screenshot 2024-06-20 at 1 49 33 AM" src="https://github.com/aditya-me13/HAR-and-Decision-Trees/assets/143077840/68554304-544b-43a0-8c3e-0d1b597c5d27">
+
+
 # Assignment 1
 
 ## Total 22 marks -> would be scaled to 11 marks
